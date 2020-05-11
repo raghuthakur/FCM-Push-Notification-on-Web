@@ -1,5 +1,5 @@
 <?php 
-	define('SERVER_API_KEY', 'AAAAaT-g6lI:APA91bGmdP3FeVozPClLXEfrsDGE-dE8zON3TEOsmk5yQ-R-D0oBuAj2NeY8iHH8UI1ZfowWJ-xn1_u1z1Hud9O-iveZVmik-Fyn2cI2DAMS0C2kYUYQS30ozsQsRvT_d6Dt3xSTfAVZ');
+	define('SERVER_API_KEY', '');
 
 	require 'DbConnect.php';
 	$db = new DbConnect;
