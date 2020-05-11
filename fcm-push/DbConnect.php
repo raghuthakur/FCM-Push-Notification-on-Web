@@ -3,7 +3,7 @@
 		private $host = 'localhost';
 		private $dbName = 'fcm-push';
 		private $user = 'root';
-		private $pass = 'SJ3ID934FDud8';
+		private $pass = '';
 
 		public function connect() {
 			try {
